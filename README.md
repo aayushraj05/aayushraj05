@@ -15,13 +15,13 @@
 
 <!-- Profile Views -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=yourusername&style=flat-square&color=green" alt="Profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=aayushraj05&style=flat-square&color=green" alt="Profile views"/>
 </p>
 
 ---
 
 ## 📫 Reach Me  
-✨ Let's build something amazing! Drop me a line at: **<2003aayushraj.email@gmail.com>**
+✨ Let's build something amazing! Drop me a line at: **<2003aayushraj@gmail.com>**
 
 ---
 
