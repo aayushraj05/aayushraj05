@@ -9,7 +9,7 @@
 <!-- Social Media -->
 <p align="center">
   <a href="https://linkedin.com/in/aayush-rajput-ar000005"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"></a>
-  <a href="https://instagram.com/aayush_rajput_1012"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+  <a href="https://instagram.com/aayushrajput1012"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
   <a href="https://x.com/Aayush_rajput5"><img src="https://img.shields.io/badge/X-black?style=for-the-badge&logo=x&logoColor=white"></a>
 </p>
 
